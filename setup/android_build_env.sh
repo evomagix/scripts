@@ -74,7 +74,7 @@ echo "Installing repo"
 sudo curl --create-dirs -L -o /usr/local/bin/repo -O -L https://storage.googleapis.com/git-repo-downloads/repo
 sudo chmod a+rx /usr/local/bin/repo
 
-git config --global user.email ty85sr@gmail.com
-git config --global user.name ty85sr
+git config --global user.email teamevomagix@gmail.com
+git config --global user.name leonevo
 
 sudo apt install figlet fortune byobu mosh -y
