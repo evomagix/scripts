@@ -36,8 +36,7 @@ sudo DEBIAN_FRONTEND=noninteractive \
     adb autoconf automake axel bc bison build-essential \
     ccache clang cmake curl expat fastboot flex g++ \
     gawk gcc git git-lfs gnupg gperf \
-    htop imagemagick lib32readline-dev 
-lib32z1-dev libelf-dev libc6-dev libcap-dev \
+    htop imagemagick lib32readline-dev lib32z1-dev libelf-dev libc6-dev libcap-dev \
     libexpat1-dev libgmp-dev '^liblz4-.*' '^liblzma.*' liblz4-tool libmpc-dev libmpfr-dev libncurses5-dev \
     libsdl1.2-dev libssl-dev libtool libxml2 libxml2-utils '^lzma.*' lzop \
     maven ncftp ncurses-dev patch patchelf pkg-config pngcrush \
